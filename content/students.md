@@ -23,7 +23,7 @@ permalink: /students
 ### 💬 Class Communities & Group Chats
 *Please read the pinned guidelines upon joining and use your real name so I can verify you.*
 
-- **WhatsApp Class Group:** [Join WhatsApp Group →]([https://chat.whatsapp.com/YOUR_INVITE_CODE](https://chat.whatsapp.com/IGv0AFOh7HvGbucOp1Lliw)) *(Announcements & quick Q&A)*
+- **WhatsApp Class Group:** [Join WhatsApp Group →](https://chat.whatsapp.com/IGv0AFOh7HvGbucOp1Lliw)) *(Announcements & quick Q&A)*
 - **Discord Server:** [Join Discord Community →](https://discord.gg/YOUR_INVITE_CODE) *(Study rooms, discussions & voice channels)*
 - **Microsoft Teams:** [Open Teams Channel →](https://teams.microsoft.com/l/team/YOUR_TEAM_LINK) *(Assignments & live sessions)*
 

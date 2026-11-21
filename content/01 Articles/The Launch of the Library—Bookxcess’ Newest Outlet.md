@@ -4,13 +4,13 @@ publish: true
 ---
 Last Wednesday, I went to the midnight launch of Bookxcess’ newest outlet located at Sunway Square Mall. The Library by Bookxcess—a name I find both dangerously overused as time goes on and the name of the newest outlet—is hailed as the largest 24/7 bookstore in South East Asia. I will be honest I had my trepidations as I never really had high opinions of any of the Bookxcess outlets or their Big Bad Wolf events, but who wouldn’t want to be a part of an event like this? So I swallowed my pride and asked to be invited as part of Inspiration Hub’s publishing team—a gesture I found unnecessary as the launch was open to all as long as you filled in your details at the entry points.
 
-![](https://nick-thien.com/content/images/2025/12/IMG_20251210_220457.jpg)
+![[IMG_20251210_220457.png]]
 
 The Library's large entryway, awaiting the surge of visitors.
 
 At that point, I had yet to set foot inside at Sunway Square Mall but one couldn’t deny it’s presence as it’s silhouette—lined by orange LED lights—towers over the Selangor skyline. Travelling to and fro from work, I would see the mall far off into the distance signaling to all would be patrons like a siren’s song. But as I alighted from my car on the night of the event. Walking through the parking lot and into the mall. There was a buzz of activity as the tenants of the mall were still putting the final touches before the grand opening of the mall the very next day. It was a mix of excitement and concern for the contractors as I foresaw a long night ahead of them with so much left to do.
 
-![](https://nick-thien.com/content/images/2025/12/IMG_20251210_220111.jpg)
+![[IMG_20251210_220111.png]]
 
 A photo with one of Bookxcess' co-founder, Jacqueline Ng
 
