@@ -3,6 +3,10 @@ title: Student Hub & Contact
 description: Study materials, class channels, and contact details.
 permalink: /students
 ---
+> [!abstract]+ 
+> - 🌐 **Library:** [yourdomain.com](https://read.nick-thien.com)
+
+
 
 > [!abstract]+ 👋 Your Name — Role / Subject Teacher
 > **Brief tagline** (e.g., *Helping students master [Subject] through clear frameworks & active practice*)
