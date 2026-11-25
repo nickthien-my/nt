@@ -3,8 +3,8 @@ title: Student Hub & Contact
 description: Study materials, class channels, and contact details.
 permalink: /students
 ---
-> [!abstract]+ 
-> - 🌐 **Library:** [yourdomain.com](https://read.nick-thien.com)
+> [!Resources]+ 
+> - 🌐 **Library:** [Here!](https://library.lighthouseproject.my/))
 
 
 
@@ -32,9 +32,3 @@ permalink: /students
 - **Microsoft Teams:** [Open Teams Channel →](https://teams.microsoft.com/l/team/YOUR_TEAM_LINK) *(Assignments & live sessions)*
 
 ---
-
-### 📅 Office Hours & Quick Links
-| Resource               | Details / Link                                           |
-| :--------------------- | :------------------------------------------------------- |
-| **Consultation / Q&A** | [Book a 15-min slot](https://cal.com/yourname)           |
-| **Submission Folder**  | [Upload Homework / Drafts](https://drive.google.com/...) |
